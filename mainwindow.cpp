@@ -46,8 +46,6 @@ MainWindow::MainWindow(QWidget *parent)
     is_timer_off=false;
     no_timer=false;
     send_buk_state=0;
-
-    // to do!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     timer_is_set=false;
 }
 
